@@ -1,7 +1,7 @@
 # Frontend Mentor - Social links profile solution
 
-Esta é uma solução para o desafio do perfil de links sociais no 
- [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend mentor ajuda você a melhorar as suas habilidades de programação através da construção de projetos realísticos.
+Esta é uma solução para o desafio da criação de uma FAQ no 
+ [Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Os desafios do Frontend mentor ajudam você a melhorar as suas habilidades de programação através da construção de projetos realísticos.
 
 ## Tabela de conteúdos
 
@@ -16,7 +16,7 @@ Esta é uma solução para o desafio do perfil de links sociais no
 
 ## O desafio
 
-Basicamente, o desafio consistia em construir um perfil dos meus links sociais da maneira mais semelhante possível ao modelo que foi sugerido.
+Basicamente, o desafio consistia em construir uma FAQ (perguntas frequentes) da maneira mais semelhante possível ao modelo que foi sugerido.
 
 ### Imagem do projeto feito
 
@@ -24,8 +24,8 @@ Basicamente, o desafio consistia em construir um perfil dos meus links sociais d
 
 ### Links
 
-- Solução URL: [URL da solução](https://github.com/moisesferreira123/social-links-profile-project)
-- Live Site URL: [Live site URL](https://moisesferreira123.github.io/social-links-profile-project/)
+- Solução URL: [URL da solução](https://github.com/moisesferreira123/faq-accordion-project)
+- Live Site URL: [Live site URL](https://moisesferreira123.github.io/faq-accordion-project/)
 
 
 ## Construído com
